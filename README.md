@@ -30,3 +30,9 @@ No certification, no ban hammer. Certification is revocable by the record, and t
 ## License
 
 MIT. Free to take, fork, and use — for everybody, everywhere. Built by Frank Longo, given away free.
+
+## The witness family
+- [Trade Witness](https://github.com/amartieai/trade-witness) — the always-on trading witness
+- [Tape Witness](https://github.com/amartieai/tape-witness) — the click-anomaly witness
+- The stand itself: [r/TheWitnessStand](https://www.reddit.com/r/TheWitnessStand/)
+- Home: [amartie.org](https://amartie.org)
