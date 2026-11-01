@@ -11,6 +11,16 @@ Nobody should be able to ban you, remove you, or silence you without being certi
 
 The poster carries the same badge: a post that plays dirty gets graded by the same gate. Nobody sits above the scales. The gate reads records, not stories.
 
+## What this is, in plain words
+
+A moderator removes your post or bans your account. The platform's record says one thing — a rule, a reason, sometimes nothing at all. Your memory of what you actually posted says another. Until now, that argument was your word against a closed door: no receipt, no cited rule you could check, no record anyone else could grade.
+
+**The Witness Stand is the receipt.** A removal is an action, like a trade. So it gets witnessed the same way the other witnesses work: the decision is frozen as it happened, the rule that supposedly covers it must be quoted exactly, every claim in the decision is checked against the actual post, and a named human stamps the grade. Pass or fail, the grade is public and permanent — the scorecard remembers what the mod log forgets.
+
+**Nobody here claims to know why a bad removal happened.** The Stand grades the decision, not the motive: was the material actually read, was the exact rule cited, was the claim verified, did a named human sign it. Four legs. A decision that cannot show them fails the gate — whoever made it, whichever community, whichever platform. And the poster is graded by the same gate as the moderator: nobody sits above the scales.
+
+**Test it yourself.** Bring a decision — yours or anyone's — and watch it get witnessed in the open. If the record and the claim agree, the Stand will say so. If they don't, that is now provable too.
+
 ## Live today
 
 - The stand: https://www.reddit.com/r/TheWitnessStand/
