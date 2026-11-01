@@ -1,0 +1,21 @@
+---
+type: link submission
+body (regex): ['\S']
+priority: 10
+action: remove
+action_reason: "MARTY R4 link-with-body | read:url+body | stamp:auto"
+comment: |
+  **Removed: Rule 4 — "Link posts may not contain body text; put commentary in a comment."**
+
+  This post was submitted as a link with body text attached.
+
+  **Cure:** repost as a bare link and add your commentary as the first comment.
+  **Appeal:** reply to this message. A human moderator reads replies within 48 hours.
+comment_stickied: true
+modmail: |
+  MARTY stamp — {{permalink}}
+  Rule: R4 "Link posts may not contain body text"
+  Read: url + body (body text present; exact length stamped by hand in the mod note)
+  This removal is a shape check, not a judgement. Reversible on reply.
+  #marty
+---

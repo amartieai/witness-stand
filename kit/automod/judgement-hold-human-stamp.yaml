@@ -1,0 +1,11 @@
+---
+type: submission
+title+body (includes-word): []  # adopting sub fills with its own trigger terms
+priority: 20
+action: filter
+action_reason: "MARTY R7 judgement hold — human stamp required"
+modmail: |
+  MARTY HOLD — {{permalink}} — Rule 7 "No low-effort posts" needs a human.
+  Do not approve or remove without GATE 2: quote the rule, verify or strike any claim.
+  #marty
+---
