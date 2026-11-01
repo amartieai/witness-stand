@@ -21,6 +21,8 @@ The poster carries the same badge: a post that plays dirty gets graded by the sa
 
 The full downloadable kit — the gate pack for moderators, the AutoMod blocks, the templates, the witness-pair recorder, the scorecard tablet, and the certification sheet — lands here as the v1.0 release. Communities: request your audit at the stand, and your mods run through the gate first. A post that passes carries the stamp: *This post has been certified and ran through the witness stand.*
 
+The full kit is published in this repository: [kit](https://github.com/amartieai/witness-stand/tree/main/kit) — and this repo is a template: press **Use this template** to grow your own stand.
+
 ## The demand
 
 No certification, no ban hammer. Certification is revocable by the record, and the registry is public.
