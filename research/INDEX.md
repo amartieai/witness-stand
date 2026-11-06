@@ -4,9 +4,9 @@ Repository: [amartieai/witness-stand](https://github.com/amartieai/witness-stand
 
 | Batch | Deliverable | Status | Notes |
 |---|---|---|---|
-| 1 | [`01-inventory.md`](01-inventory.md) | **COMPLETE** | Repository files, project assertions, GitHub issues/discussions/releases, and initial gaps inventoried. Reviewed tree at commit `eace2cfa971a89e5b9688166655dd02c75[...]`. |
+| 1 | [`01-inventory.md`](01-inventory.md) | **COMPLETE** | Repository files, project assertions, GitHub issues/discussions/releases, and initial gaps inventoried. |
 | 2 | [`02-claims-register.md`](02-claims-register.md) | **COMPLETE** | Claims register written; project-backed facts distinguished from assertions and not-found items. |
-| 3 | [`subjects/`](subjects/) | **IN PROGRESS** | Research named people and institutions from the register. Save one sourced subject file and update this index after each subject. First up: Reddit (platform) and the Reddit account `u/Opening_Map_6898`; do not infer an offline identity. |
+| 3 | [`subjects/`](subjects/) | **IN PROGRESS** | Research each person and institution named in the claims register; one sourced file per subject. First subject: Reddit. |
 | 4 | [`03-gaps-and-next-steps.md`](03-gaps-and-next-steps.md) | NOT STARTED | Evidence that would prove or disprove each unverified claim, and where to locate it. |
 
-**Resume point:** Continue Batch 3. Next subject to document: Reddit (platform). Then assess the named account `u/Opening_Map_6898` using public, primary sources only. If interrupted, record the exact last completed subject here.
+**Resume point:** Batch 3, first subject: Reddit. After saving each subject file, update this index with the completed subject and the next one. Use public sources only; for Frank Longo, use public and court records only. If interrupted, save a PARTIAL subject file and record the precise stop point here.
